@@ -1,0 +1,70 @@
+body{
+    background-color: aquamarine;
+}
+.navbar img{
+    width: 46px;
+}
+.my-logo{
+    border-radius: 50%;
+}
+.player img{
+    width: 56px;
+}
+.divider{
+    margin: 0 50px;
+}
+h3{
+    padding: 20px 0 10px 0;
+    color: #562EFF;
+}
+.blog-content p{
+    color: #562EFF;
+}
+.blog-content .top-player{
+    background-color: aqua;
+}
+.card{
+    box-shadow: 10px 20px 30px gray;
+    border-radius: 22px !important;
+    padding: 0px;
+    margin: 20px;
+}
+.checked {
+    color: #FFC014;
+}
+  .unchecked{
+      color: #AEAEAE;
+  }
+  .time-zone{
+      background-color: #FFE4E8;
+      border-radius: 14.69px;
+      padding: 7px;
+      padding-left: 50px;
+  }
+  .nav-button-style{
+    height: 35px;
+    width: 104px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background: #FFE4E8;
+    border: none;
+    color: #ED6B4F;
+    font: Open Sans;
+    font-weight: 600;
+    size: 14.69px;
+    /* line-height: 20.01px; */
+    }
+    .card-footer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+footer p{
+    text-align: center;
+    background-color: #282531;
+    color: white;
+    line-height: 40px;
+}
+.card-group{
+    padding-bottom: 50px;
+}
